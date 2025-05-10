@@ -1,1 +1,3 @@
-# -pp-stl-implementations
+# Cpp-stl-implementations
+
+В этом репозитории представлены реализации некоторых контейнеров и утилит из STL.
